@@ -12,7 +12,7 @@
  
 ### 🚀 Men haqimda
  
-- 🔭 Hozir **Katta loyihlar ustid aishlayapman**, **Onlayn Do'kon (Laravel)** va **Avtomatlashtirilgan Xabarnoma Tizimi** loyihalari ustida ishlayapman
+- 🔭 Hozir **Katta loyihalar ustida ishlayapman**, **Onlayn Do'kon (Laravel)** va **Avtomatlashtirilgan Xabarnoma Tizimi** loyihalari ustida ishlayapman
 - 🌱 **IT Park Academy** (Qo'shko'pir filiali)da Backend Development yo'nalishini o'rganmoqdaman
 - 💡 Qiziqishlarim: Sun'iy intellekt (AI), Backend arxitektura, Jarayonlarni avtomatlashtirish, Open Source
 - 📫 Menga bog'lanish: **jumanazarovvj999@gmail.com** yoki Telegram orqali
