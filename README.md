@@ -1,82 +1,66 @@
-<h1 align="center">Assalomu alaykum 👋, men Jaloliddin</h1>
-<h3 align="center">Backend Developer | PHP · Laravel · Node.js | Xorazm, O'zbekiston 🇺🇿</h3>
-
+<h1 align="center">Assalomu alaykum 👋, Jaloliddin</h1>
+<h3 align="center">Backend Developer | PHP · Laravel · Node.js </h3>
+ 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;PHP+%26+Laravel+Enthusiast;Node.js+%26+REST+API;Doim+yangi+narsa+o'rganaman!;Open+Source+ga+ochiqman&font=Fira%20Code&center=true&width=440&height=45&color=00F7FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Backend-Developer-00F7FF?style=for-the-badge&logo=server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learn-IT%20Park%20Academy-orange?style=for-the-badge" />
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaloliddin-999&label=Profile%20views&color=0e75b6&style=flat" alt="jaloliddin-999" />
-  <img src="https://img.shields.io/github/followers/jaloliddin-999?label=Followers&style=social" alt="followers"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-Welcome-blue?style=flat-square" alt="views"/>
 </p>
-
 ---
-
+ 
 ### 🚀 Men haqimda
-
-- 🔭 Hozir **Task Manager REST API**, **Onlayn Do'kon (Laravel)** va **Avtomatlashtirilgan Xabarnoma Tizimi** loyihalari ustida ishlayapman
+ 
+- 🔭 Hozir **Katta loyihlar ustid aishlayapman**, **Onlayn Do'kon (Laravel)** va **Avtomatlashtirilgan Xabarnoma Tizimi** loyihalari ustida ishlayapman
 - 🌱 **IT Park Academy** (Qo'shko'pir filiali)da Backend Development yo'nalishini o'rganmoqdaman
 - 💡 Qiziqishlarim: Sun'iy intellekt (AI), Backend arxitektura, Jarayonlarni avtomatlashtirish, Open Source
 - 📫 Menga bog'lanish: **jumanazarovvj999@gmail.com** yoki Telegram orqali
 - ⚡ Qiziqarli fakt: matematika va informatika fanlarini yaxshi ko'raman, bo'sh vaqtimda gaming bilan shug'ullanaman 🎮
-
 ---
-
+ 
 ### 🛠️ Texnologiyalar va Vositalar
-
+ 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,express,mysql,git,github,postman,vscode&theme=dark" />
 </p>
-
 ---
-
-### 📊 GitHub Statistikam
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jaloliddin-999&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaloliddin-999&layout=compact&theme=radical&hide_border=true" alt="Top langs" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jaloliddin-999&theme=radical&hide_border=true" alt="GitHub Streak" width="65%"/>
+ 
+### 📊 Ko'nikmalar darajasi
+ 
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
-
 ---
-
-### 🏆 GitHub Trofeylari
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaloliddin-999&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" alt="trophies" />
-</p>
-
----
-
-### 📈 Faollik Grafigi
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaloliddin-999&theme=redical&hide_border=true" alt="activity-graph" width="90%"/>
-</p>
-
----
-
+ 
 ### 💼 Loyihalarim
-
+ 
 | Loyiha | Tavsif | Texnologiyalar |
 |---|---|---|
-| 🗂️ **Task Manager — REST API** | JWT autentifikatsiya, CRUD amallari, status bo'yicha filtrlash, Postman orqali test qilingan | `Node.js` `Express` `MySQL` |
+| 🗂️ **AvtoSalon boshqaruv tizimi** | JWT autentifikatsiya, CRUD amallari, status bo'yicha filtrlash, Postman orqali test qilingan | `Node.js` `Express` `MySQL` |
 | 🛒 **Onlayn Do'kon — Laravel Backend** | Mahsulot/buyurtma boshqaruvi, admin panel, avtomatik status yangilash, API integratsiya | `PHP` `Laravel` `MySQL` |
 | 🔔 **Avtomatlashtirilgan Xabarnoma Tizimi** | Tashqi API'lardan ma'lumot olish va avtomatik qayta ishlash skripti | `Node.js` `API Integratsiya` |
-
+ 
 ---
-
+ 
+### 🎓 Ta'lim
+ 
+**Backend Development** — *IT Park Academy, Qo'shko'pir filiali (2026 — hozir)*
+PHP, Laravel va Node.js asosida server tomonlama dasturlash, MySQL, REST API va jarayonlarni avtomatlashtirish bo'yicha amaliy ko'nikmalar.
+ 
+---
+ 
 ### 🌐 Ijtimoiy tarmoqlar
-
+ 
 <p align="center">
   <a href="https://t.me/ltz_999" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -88,7 +72,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <b>⭐ Profilimga tashrif buyurganingiz uchun rahmat! ⭐</b>
 </p>
+ 
